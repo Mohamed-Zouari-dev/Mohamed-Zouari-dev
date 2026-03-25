@@ -2,9 +2,9 @@
 
 ### Cybersecurity Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-zouari-dev&label=Profile views&color=0e75b6&style=flat" alt="mohamed-zouari-dev" /> </p>
+<p align="left"> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-zouari-dev" alt="mohamed-zouari-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 * 🔭 I'm currently working on **An enterprise cybersecurity app**
 * 🌱 I'm currently learning **Blue Teaming**
@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=angular,bootstrap,c,css,d3,docker,dotnet,fastapi,git,hadoop,html,java,js,laravel,linux,mongodb,mysql,numpy,oracle,pandas,php,postgres,postman,sass,ts" />
+<img src="https://skillicons.dev/icons?i=angular,bootstrap,c,css,docker,dotnet,fastapi,git,html,java,js,laravel,linux,mongodb,mysql,php,postgres,postman,ts" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-zouari-dev&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
