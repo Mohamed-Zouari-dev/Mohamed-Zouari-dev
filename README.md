@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
-* 🔭 I'm currently working on **An enterprise cybersecurity app**
 * 🌱 I'm currently learning **Blue Teaming**
 * 📫 How to reach me **[zouarimohamed74@gmail.com](mailto:zouarimohamed74@gmail.com)**
 
