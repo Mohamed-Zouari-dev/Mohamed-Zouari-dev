@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/mohamed-zouari-9121a6334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 
 **Languages and Tools:**
-<br><img src="https://skillicons.dev/icons?i=angular,bootstrap,c,css,docker,dotnet,fastapi,git,html,java,js,laravel,linux,mongodb,mysql,php,postgres,postman,ts,react,c#" />
+<br><img src="https://skillicons.dev/icons?i=angular,bootstrap,c,css,docker,dotnet,fastapi,git,html,java,js,laravel,linux,mongodb,mysql,php,postgres,postman,ts,react" />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-zouari-dev&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamed-zouari-dev&theme=2077)
 
